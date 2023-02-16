@@ -4,7 +4,7 @@ Sample Test Case 0 (Passes)
 40 40 40 10 10
 50 20 30 10 10
 
-Sample Test Case 1 (Fails)
+Sample Test Case 1 (Passes)
 22
 25 26 45 22 31 
 47 29 47 2 25 

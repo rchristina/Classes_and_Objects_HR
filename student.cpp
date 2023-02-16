@@ -19,8 +19,8 @@ class Student{
     }
     
     int calculateTotalScore(){
-        int totalScore;
-        for(int i=0; i<sizeof(scores); i++){
+        int totalScore = 0;
+        for(int i=0; i<5; i++){
             totalScore += scores[i];
         }
         
